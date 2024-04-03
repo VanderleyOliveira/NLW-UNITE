@@ -37,7 +37,8 @@ for(let participante of participantes) {
 }
 ```
  ------------------------------------------------------------------------------
-
+REVISÃO
+ ------------------------------------------------------------------------------
 const criarNovoParticipante = (participante) => {
   const dataInscricao = dayjs(Date.now())
   .to(participante.dataInscricao)
