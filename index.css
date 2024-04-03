@@ -63,7 +63,7 @@ input{
 }
 
 fieldset legend, section h2 {
-  font: 700 16px/140px% 'Roboto', sans-serif;
+  font: 700 16px/140%'Roboto', sans-serif;
   color: #E1E1E6;
   padding-bottom: 16px;
 }
