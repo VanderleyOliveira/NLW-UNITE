@@ -132,4 +132,5 @@ tbody td button{
 
 tbody td button:hover{
   text-decoration: underline;
+  color: rgb(0, 226, 0);
 }
